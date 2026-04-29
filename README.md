@@ -1,5 +1,5 @@
 
-![Dashboard Preview](executive-dashboard.png)
+![dashboard Preview](executive-dashboard.png)
 
 
 
