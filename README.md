@@ -62,9 +62,9 @@ The dashboard is designed to support data-driven decision-making by providing cl
 
 ---
 
-## 📁 File
+## 📁 Download Dashboard
 
-* Adventure_Works_BI_Dashboard.pbix
+👉 [Download Power BI File](Adventure_Works_BI_Dashboard.pbix)
 
 ---
 
